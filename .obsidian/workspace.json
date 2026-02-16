@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "logs/gdd-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "gdd-log"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "7f62cf39b9f77cca",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD.md",
+                "file": "logs/gdd-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GDD"
+              "title": "Outline of gdd-log"
             }
           },
           {
@@ -196,15 +196,26 @@
   },
   "active": "4c54c0bd601dddaf",
   "lastOpenFiles": [
-    "images_selected.md",
-    "logs/logs_gdd-log.md",
-    "promt-log.md",
-    "README.md",
     "GDD.md",
+    "logs/gdd-log.md",
     "asset-list.md",
+    "Текстовый документ.txt",
+    "README.md",
+    "images/Selected.md",
+    "images_selected.md",
     "Index.md",
-    "media_audio, media_video, media_3d",
-    "images_raw",
+    "media/3d.md",
+    "media/video.md",
+    "media/audio.md",
+    "images/Raw.md",
+    "LLMlog.md",
+    "promt-log.md",
+    "logs/{date}gdd-log.md",
+    "logs_gdd-log.md",
+    "2026-02-15.md",
+    "Untitled.base",
+    "media",
+    "images",
     "images_selected",
     "images/selected",
     "images",

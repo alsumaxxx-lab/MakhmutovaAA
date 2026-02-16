@@ -8,6 +8,6 @@
 
 - **Ссылки:**
 [[GDD.md]]
-[[logs_gdd-log]]
-[[images_selected]]
+[[gdd-log]]
+[[selected]]
 
