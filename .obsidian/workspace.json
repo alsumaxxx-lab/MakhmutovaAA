@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/gdd-log.md",
+                "file": "GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdd-log"
+              "title": "GDD"
+            }
+          },
+          {
+            "id": "52dabf6fed23c48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asset-list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asset-list"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "7f62cf39b9f77cca",
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/gdd-log.md",
-                "followCursor": false,
+                "file": "asset-list.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gdd-log"
+              "title": "Структура asset-list"
             }
           },
           {
@@ -180,30 +195,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c54c0bd601dddaf",
+  "active": "60751ed2f2056efc",
   "lastOpenFiles": [
+    "shots/shot-list.md",
+    "logs/03_gdd_log.md",
+    "logs/02_gdd_log_narrative.md",
+    "GDD_Narrative.md",
+    "Characters.md",
+    "shots.md",
+    "shots",
+    "Index.md",
+    "logs/03_gdd_log_.md",
     "GDD.md",
-    "logs/gdd-log.md",
-    "asset-list.md",
-    "Текстовый документ.txt",
+    "logs/01_gdd_log.md",
     "README.md",
     "images/Selected.md",
+    "asset-list.md",
+    "Текстовый документ.txt",
     "images_selected.md",
-    "Index.md",
     "media/3d.md",
     "media/video.md",
     "media/audio.md",
@@ -220,7 +243,6 @@
     "images/selected",
     "images",
     "workflows",
-    "reports",
-    "logs"
+    "reports"
   ]
 }
